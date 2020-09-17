@@ -1,2 +1,2 @@
 # gmall
-gmail
+gmall
